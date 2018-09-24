@@ -1,0 +1,10 @@
+F1001,Seattle---->SanHose,5:00PM
+F1002,Seattle---->LA,2:00PM
+F1003,Seattle---->Portland,6:00AM
+F1004,Seattle---->NJ,8:00AM
+F1005,Seattle---->Florida,3:00PM
+F1006,SFO---->Seattle,4:00AM
+F1007,Dallas---->Seattle,7:00PM
+F1008,Philadelphia---->Seattle,5:00AM
+F1009,Miami---->Seattle,9:00PM
+F1010,Chicago---->Seattle,9:00AM
